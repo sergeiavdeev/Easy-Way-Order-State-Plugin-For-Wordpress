@@ -1,4 +1,4 @@
-![Image alt](https://github.com/sergeiavdeev/Easy-Way-Order-State-Plugin-For-Wordpress/raw/master/easy_way_delivery/img/image.png)
+![](https://github.com/sergeiavdeev/Easy-Way-Order-State-Plugin-For-Wordpress/raw/master/easy_way_delivery/img/wp-header-logo.png)
 # Easy-Way-Order-State-Plugin-For-Wordpress
 Easy Way Order State Plugin For Wordpress
 
