@@ -38,15 +38,7 @@ class WP_Widget_Ewd_State extends WP_Widget
             <input type='submit' name='ewd_order_staete_btn' value='Прверить' class='search-submit' />
         </form>
         ";
-
-        /*if (isset($_POST['ewd_order_staete_btn'])) {
-            echo "
-            <p>Заказ №".$_POST['ewd_order_number']."</p>
-            <p>Статус: Говно!</p>
-            <p>".get_option('ewd_api_url')."</p>
-            ";
-        }*/
-
+        
         echo $args['after_widget'];
     }
 
